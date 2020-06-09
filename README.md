@@ -15,3 +15,7 @@ To learn.
 On personal level, PC.
 
 ## How to contribute
+
+### Copyright
+
+Git.training.

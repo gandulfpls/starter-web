@@ -16,6 +16,8 @@ On personal level, PC.
 
 ## How to contribute
 
+Please fork this
+
 ### Copyright
 
 Git.training.

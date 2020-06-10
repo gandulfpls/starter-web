@@ -8,7 +8,7 @@ This is example for studying.
 
 ## Purpose
 
-To learn.
+To learn. To earn.
 
 ## Deployment
 

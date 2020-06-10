@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use GIT.
+This is a simple website project for showing how to use GIT. It's for rebasing.
 
 ## Introduction
 

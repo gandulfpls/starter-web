@@ -16,7 +16,7 @@ On personal level, PC.
 
 ## How to contribute
 
-Please fork this
+Try this guide
 
 ### Copyright
 
